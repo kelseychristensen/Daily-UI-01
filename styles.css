@@ -1,0 +1,87 @@
+/*CONTENT*/
+
+body, html {
+    margin: 0;
+    height: 100%;
+}
+
+.container {
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    text-align: left
+}
+
+/*FONTS*/
+
+h1 {
+    color: #9F2B00;
+    font-size: 5rem;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700;
+    letter-spacing: .5rem;
+}
+
+.heading {
+    width: 50%;
+}
+
+h2 {
+    color: #9F2B00;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    letter-spacing: .25rem;
+    font-size: 2rem;
+    padding-bottom: 3%;
+}
+
+/*BACKGROUND IMAGE*/
+
+.bg-image {
+    background-image: url("images/newsprint.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*FORM STYLING*/
+
+/*email input */
+
+
+input[type=text] {
+    width: 75%;
+    padding: 19px 20px;
+    margin: 8px 10px 8px 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    vertical-align: bottom;
+}
+
+/*button*/
+
+input[type=submit] {
+    background-color: #9F2B00;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    cursor: pointer;
+    font-size: 1.75rem;
+    vertical-align: bottom;
+}
+
+input[type=submit]:hover {
+    background-color: #36454F;
+}
