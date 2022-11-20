@@ -1,6 +1,6 @@
 <h1 align="center">Daily-UI-01</h1>
 
-<p align="center">First challenege from Daily UI's 100 Days of UI Challenge></p>
+<p align="center">First challenege from Daily UI's 100 Days of UI Challenge</p>
 
 ## Links
 
