@@ -5,7 +5,7 @@
 ## Links
 
 - [Repo](https://github.com/kelseychristensen/Daily-UI-01.git "Daily-UI-01 Repo")
-- [Dribbble](https://dribbble.com/shots/19932909-Daily-UI-Day-1-Sign-Up-Form "<project-name Dribbble")
+- [Dribbble](https://dribbble.com/shots/19932909-Daily-UI-Day-1-Sign-Up-Form "Daily-UI-01 Dribbble Snapshot")
 
 
 ## Screenshots
