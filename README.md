@@ -1,6 +1,7 @@
 <h1 align="center">Daily-UI-01</h1>
 
-<p align="center">First challenege from Daily UI's 100 Days of UI Challenge</p>
+<p align="center">
+First project for <a href="https://www.dailyui.co/">Daily UI's</a> 100 Days of UI Challenge. The prompt was to create a sign-up form for anything you could think of. I chose a basic news-aggregating subscription service and created this appealing user interface. I struggled to achieve the ripped-paper effect with pure CSS before eventually deciding to create a ripped paper image myself and use that as the background.</p>
 
 ## Links
 
@@ -11,11 +12,6 @@
 ## Screenshots
 
 ![Home Page](images/Daily-UI-001-Sign-Up-Form-Kelsey-Christensen.PNG "Home Page")
-
-
-## Available Commands
-
-First project for <a href="https://www.dailyui.co/">Daily UI's</a> 100 Days of UI Challenge
 
 ## Built With
 
