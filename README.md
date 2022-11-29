@@ -6,7 +6,7 @@ First project for <a href="https://www.dailyui.co/">Daily UI's</a> 100 Days of U
 ## Links
 
 - [Repo](https://github.com/kelseychristensen/Daily-UI-01.git "Daily-UI-01 Repo")
-- [Dribbble](https://dribbble.com/shots/19932909-Daily-UI-Day-1-Sign-Up-Form "Daily-UI-01 Dribbble Snapshot")
+- [Dribbble](https://dribbble.com/shots/20017812-Daily-UI-Day-001-Sign-Up-Form "Daily-UI-01 Dribbble Snapshot")
 
 
 ## Screenshots
